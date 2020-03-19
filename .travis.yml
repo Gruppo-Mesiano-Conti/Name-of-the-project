@@ -4,7 +4,7 @@ jdk:
 
 addons:
  sonarcloud: 
-  organization: Z 
+  organization: simesi@hotmail.it 
   token: a0eb0f901f01aec3bf291e82e39e896396a212e9
 script: 
 - ant build 
